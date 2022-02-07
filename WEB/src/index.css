@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+}
+
+.submit {
+  background: #b9060d;
+  color: white;
+  font-weight: 800;
+  font-family: "Nunito", sans-serif;
+}
+
+.formone {
+  display: flex !important;
+}
